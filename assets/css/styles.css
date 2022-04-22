@@ -1,0 +1,12 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.navbar-nav {
+    margin-left: auto;
+    padding-right: 20px;
+}
+.precio {
+    text-decoration:line-through;
+    color: red;
+}
+
